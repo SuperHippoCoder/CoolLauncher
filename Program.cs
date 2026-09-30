@@ -1,3 +1,6 @@
+using CmlLib.Core;
+using Launcher.Services;
+
 namespace Launcher
 {
     internal static class Program
